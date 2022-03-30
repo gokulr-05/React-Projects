@@ -1,0 +1,16 @@
+.item {
+  width: 10%;
+  background-color: cornflowerblue;
+}
+
+.para {
+  width: 40%;
+  background-color: white;
+  margin: 10px auto;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+.btn1 {
+  cursor: pointer;
+}
